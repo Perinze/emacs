@@ -1,0 +1,2 @@
+;; Generated package description from pyim.el  -*- no-byte-compile: t -*-
+(define-package "pyim" "5.2.3" "A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime." '((emacs "25.1") (async "1.6") (xr "1.13")) :commit "3d9d16b578a1136ef344b61db5f0d55cefcf4164" :authors '(("Ye Wenbin" . "wenbinye@163.com") ("Feng Shu" . "tumashu@163.com")) :maintainer '("Feng Shu" . "tumashu@163.com") :keywords '("convenience" "chinese" "pinyin" "input-method") :url "https://github.com/tumashu/pyim")
