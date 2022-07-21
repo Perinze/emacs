@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/xv6-labs-2021/" "~/rias/" "~/Documents/code/c/")
